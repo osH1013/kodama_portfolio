@@ -6,14 +6,12 @@
 
 ### 1. **電光掲示板プログラム**
 - **説明:** print関数とターミナルを用いて電光掲示板を再現したプログラムです。
-- **GitHub:** [WebScraper](https://github.com/example/WebScraper)
+- **GitHub:** https://github.com/osH1013/denko
 
 ### 2. **しりとりプログラム**
 - **説明:** コンピュータとしりとりできるプログラムです。形態素解析を用いて与えられた文章から新しい名詞を学習できます。また、マルチスレッドを用いて回答に時間制限を設けることが可能です。
-- **GitHub:** [ToDoApp](https://github.com/example/ToDoApp)
+- **GitHub:** https://github.com/osH1013/wordChain
 
 ### 3. **アスキーアート作成プログラム**
-- **説明:** 
-- **GitHub:** [SimpleCalculator](https://github.com/example/SimpleCalculator)
-
----
+- **説明:** 与えられた画像のアスキーアートを指定された複数の全角文字を用いて作成するプログラムです。
+- **GitHub:** https://github.com/osH1013/makeAsciiArt
